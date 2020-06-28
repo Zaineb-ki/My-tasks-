@@ -1,0 +1,17 @@
+body{
+    background-color: #34495e;
+}
+
+#log
+{
+    margin-top: 10%;
+    margin-left: 32%;
+}
+
+.error{
+    background-color: #E4BCB9;
+    color: #6F0E1D;
+    width: 95%;
+    padding: 10px;
+    border-radius: 5px;
+}
